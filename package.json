@@ -2,6 +2,7 @@
   "name": "ionic-angular-tailwind-starter",
   "version": "0.0.1",
   "private": true,
+  "license": "MIT",
   "scripts": {
     "build": "ng build",
     "fmt": "prettier --write .",
